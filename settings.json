@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "aayushnotpro.aternos.me:60827",
+    "ip": "aayushnotpro.aternos.me",
     "port":60827,
     "version": "1.21.4",
     "try-creative": false
